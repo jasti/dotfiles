@@ -40,4 +40,3 @@ done
 unset config_files
 
 
-PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
