@@ -8,3 +8,9 @@ then
   alias ll="gls -l --color"
   alias la='gls -A --color'
 fi
+
+
+# Tomcat related aliases
+alias tstart = '/Users/jasti/software/apache-tomcat-7.0.47/bin/startup.sh'
+alias tstop= '/Users/jasti/software/apache-tomcat-7.0.47/bin/shutdown.sh'
+
