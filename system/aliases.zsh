@@ -11,6 +11,6 @@ fi
 
 
 # Tomcat related aliases
-alias tstart = '/Users/jasti/software/apache-tomcat-7.0.47/bin/startup.sh'
-alias tstop= '/Users/jasti/software/apache-tomcat-7.0.47/bin/shutdown.sh'
+alias tstart="/Users/jasti/software/apache-tomcat-7.0.47/bin/startup.sh"
+alias tstop="/Users/jasti/software/apache-tomcat-7.0.47/bin/shutdown.sh"
 
