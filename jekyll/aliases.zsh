@@ -1,0 +1,1 @@
+alias js='jekyll server'
